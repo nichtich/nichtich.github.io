@@ -1,0 +1,5 @@
+* [jakobvoss.de:](index.html)
+* ↗[blog](http://jakoblog.de/)
+* ↗[work](http://www.gbv.de/)
+* ↗[PhD](http://aboutdata.org)
+* [teaching](teaching.html)
