@@ -11,3 +11,11 @@
 
 * [GitHub-Profil](https://github.com/nichtich)
 * [Wikipedia-Benutzerseite](http://de.wikipedia.org/wiki/Benutzer:JakobVoss)
+
+GND
+  : <http://d-nb.info/gnd/1038709040>
+ORCID
+  : <http://orcid.org/0000-0002-7613-4123>
+
+
+* 
