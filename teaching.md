@@ -1,8 +1,7 @@
 # Lehre
 
-## Sommersemester 2014 an der HSH
+## Sommersemester 2014 an der HsH
 
-* [Teilmodul "Digitale Bibliothek"](https://github.com/jakobib/hshdb2014)
-* [Teilmodul "Open Access"](https://github.com/jakobib/hshoa2014)
-* [Projekt "Normdaten in Wikidata"](https://github.com/jakobib/hshwd2014)
+* [Modul "Digitale Bibliothek"](https://github.com/hshdb/hshdb2014)
+* [Projekt "Normdaten in Wikidata"](https://github.com/hshdb/normdaten-in-wikidata)
 
