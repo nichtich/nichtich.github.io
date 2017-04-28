@@ -18,5 +18,10 @@ including accounts at
 
 are [listed in BibSonomy](https://www.bibsonomy.org/user/nichtich/myown)
 
-see <http://aboutdata.org/> for my PhD thesis
+PhD thesis at <http://aboutdata.org/>
+
+## See also
+
+* mögliche [Aufgaben für Studierende, Projekte etc.](aufgaben/)
+* ...
 
