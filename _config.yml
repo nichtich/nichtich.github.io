@@ -1,0 +1,21 @@
+# metadata
+title: Jakob Voß
+description: Minimal Homepage
+
+twitter_username: nichtich
+github_username:  nichtich
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    input: GFM
+
+theme: jekyll-theme-minimal
+
+gems:
+    - jekyll-sitemap
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
