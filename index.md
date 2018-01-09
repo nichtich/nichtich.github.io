@@ -6,7 +6,6 @@ layout: default
 ## Information about me
 
 can better be found [in Wikidata](https://tools.wmflabs.org/sqid/#/view?id=Q15303972)
-([Q15303972](https://query.wikidata.org/#DESCRIBE%20wd%3AQ15303972))
 
 including accounts at
 [Twitter](https://twitter.com/nichtich),
@@ -17,6 +16,7 @@ including accounts at
 ## Publications
 
 are [listed in BibSonomy](https://www.bibsonomy.org/user/nichtich/myown)
+and [Scholia/Wikidata](https://tools.wmflabs.org/scholia/author/Q15303972)
 
 PhD thesis at <http://aboutdata.org/>
 
