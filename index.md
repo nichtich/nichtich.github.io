@@ -3,25 +3,19 @@ title: Jakob Voß
 layout: default
 ---
 
-## Information about me
+Public information about me is available in [my Wikidata record](https://www.wikidata.org/wiki/Q15303972). Try alternative views of the data [via Scholia](https://tools.wmflabs.org/scholia/author/Q15303972) and [via SQID](https://tools.wmflabs.org/sqid/#/view?id=Q15303972) Further see profiles:
 
-can better be found [in Wikidata](https://tools.wmflabs.org/sqid/#/view?id=Q15303972)
+* [GitHub](https://github.com/nichtich)
+* [Twitter](https://twitter.com/nichtich)
+* [Google Scholar](https://scholar.google.com/citations?user=e37jsnoAAAAJ)
 
-including accounts at
-[Twitter](https://twitter.com/nichtich),
-[GitHub](https://github.com/nichtich),
-[Google Scholar](https://scholar.google.com/citations?user=e37jsnoAAAAJ),
-...
+If you still want to know more about me, see [some of my CVs](https://github.com/nichtich/CVs#readme).
 
-## Publications
+And have a look at my PhD thesis at <http://aboutdata.org/>!
 
-are [listed in BibSonomy](https://www.bibsonomy.org/user/nichtich/myown)
-and [Scholia/Wikidata](https://tools.wmflabs.org/scholia/author/Q15303972)
-
-PhD thesis at <http://aboutdata.org/>
-
+<!--
 ## See also
 
 * mögliche [Aufgaben für Studierende, Projekte etc.](aufgaben/)
 * ...
-
+-->
