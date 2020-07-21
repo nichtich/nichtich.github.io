@@ -3,7 +3,7 @@ title: Jakob Voß
 layout: default
 ---
 
-Public information about me is available in [my Wikidata record](https://www.wikidata.org/wiki/Q15303972). Try alternative views of the data [via Scholia](https://tools.wmflabs.org/scholia/author/Q15303972) and [via SQID](https://tools.wmflabs.org/sqid/#/view?id=Q15303972) Further see profiles:
+Public information about me is available in [my Wikidata record](https://www.wikidata.org/wiki/Q15303972). Try alternative views of the data [via Scholia](https://scholia.toolforge.org/author/Q15303972) and [via SQID](https://tools.wmflabs.org/sqid/#/view?id=Q15303972) Further see profiles:
 
 * [GitHub](https://github.com/nichtich)
 * [Twitter](https://twitter.com/nichtich)
